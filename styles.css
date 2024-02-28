@@ -8,11 +8,14 @@
 	width: 90%;
 	background-color: #484444;
 	margin: 0 auto;
+	
 }
 #photo-heading  {
 	display:flex;
 	justify-content: center;
 	color: white;
+	font-weight: 400;
+	padding: 10px;
 }
 .photos {
 	display: flex;
